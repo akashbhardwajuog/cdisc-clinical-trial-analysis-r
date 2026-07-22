@@ -1,0 +1,31 @@
+actual_treatment,preferred_term,treatment_emergent_adverse_event_records
+Placebo,ERYTHEMA,12
+Placebo,UPPER RESPIRATORY TRACT INFECTION,12
+Placebo,PRURITUS,11
+Placebo,APPLICATION SITE PRURITUS,10
+Placebo,DIARRHOEA,10
+Placebo,APPLICATION SITE DERMATITIS,9
+Placebo,RASH,9
+Placebo,APPLICATION SITE IRRITATION,7
+Placebo,BRADYCARDIA,4
+Placebo,EAR INFECTION,4
+Xanomeline Low Dose,APPLICATION SITE PRURITUS,32
+Xanomeline Low Dose,PRURITUS,31
+Xanomeline Low Dose,ERYTHEMA,22
+Xanomeline Low Dose,APPLICATION SITE ERYTHEMA,20
+Xanomeline Low Dose,APPLICATION SITE IRRITATION,18
+Xanomeline Low Dose,RASH,18
+Xanomeline Low Dose,APPLICATION SITE DERMATITIS,15
+Xanomeline Low Dose,DIZZINESS,13
+Xanomeline Low Dose,SKIN IRRITATION,13
+Xanomeline Low Dose,SINUS BRADYCARDIA,10
+Xanomeline High Dose,PRURITUS,38
+Xanomeline High Dose,APPLICATION SITE PRURITUS,35
+Xanomeline High Dose,APPLICATION SITE ERYTHEMA,23
+Xanomeline High Dose,ERYTHEMA,22
+Xanomeline High Dose,APPLICATION SITE IRRITATION,16
+Xanomeline High Dose,DIZZINESS,15
+Xanomeline High Dose,RASH,15
+Xanomeline High Dose,NAUSEA,13
+Xanomeline High Dose,APPLICATION SITE DERMATITIS,12
+Xanomeline High Dose,SINUS BRADYCARDIA,12

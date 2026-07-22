@@ -1,0 +1,5 @@
+model,term,hazard_ratio,confidence_interval_lower,confidence_interval_upper,p_value
+Adjusted Cox proportional-hazards model,actual_treatmentXanomeline Low Dose,4.473990147782241,2.836397764958319,7.057045415048373,1.1678637601388427e-10
+Adjusted Cox proportional-hazards model,actual_treatmentXanomeline High Dose,5.1289396195734565,3.237024814066649,8.12660487090374,3.3484340043307328e-12
+Adjusted Cox proportional-hazards model,age,0.9852923890034836,0.9671737650033322,1.0037504396377495,0.11766303448767729
+Adjusted Cox proportional-hazards model,sexM,1.463785706010076,1.0590612640291657,2.0231771908715657,0.021028543418390954

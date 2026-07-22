@@ -1,0 +1,7 @@
+.Rproj.user/ 
+.Rhistory 
+.RData 
+.Ruserdata 
+ 
+# Local copy of official CDISC pilot source data 
+data_raw/cdisc_pilot_source/ 

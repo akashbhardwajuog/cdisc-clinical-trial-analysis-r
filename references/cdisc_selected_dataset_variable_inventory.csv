@@ -1,0 +1,190 @@
+dataset,variable,data_type,variable_label
+ADSL,STUDYID,character,Study Identifier
+ADSL,USUBJID,character,Unique Subject Identifier
+ADSL,SUBJID,character,Subject Identifier for the Study
+ADSL,SITEID,character,Study Site Identifier
+ADSL,SITEGR1,character,Pooled Site Group 1
+ADSL,ARM,character,Description of Planned Arm
+ADSL,TRT01P,character,Planned Treatment for Period 01
+ADSL,TRT01PN,numeric,Planned Treatment for Period 01 (N)
+ADSL,TRT01A,character,Actual Treatment for Period 01
+ADSL,TRT01AN,numeric,Actual Treatment for Period 01 (N)
+ADSL,TRTSDT,Date,Date of First Exposure to Treatment
+ADSL,TRTEDT,Date,Date of Last Exposure to Treatment
+ADSL,TRTDUR,numeric,Duration of Treatment (days)
+ADSL,AVGDD,numeric,Avg Daily Dose (as planned)
+ADSL,CUMDOSE,numeric,Cumulative Dose (as planned)
+ADSL,AGE,numeric,Age
+ADSL,AGEGR1,character,Pooled Age Group 1
+ADSL,AGEGR1N,numeric,Pooled Age Group 1 (N)
+ADSL,AGEU,character,Age Units
+ADSL,RACE,character,Race
+ADSL,RACEN,numeric,Race (N)
+ADSL,SEX,character,Sex
+ADSL,ETHNIC,character,Ethnicity
+ADSL,SAFFL,character,Safety Population Flag
+ADSL,ITTFL,character,Intent-To-Treat Population Flag
+ADSL,EFFFL,character,Efficacy Population Flag
+ADSL,COMP8FL,character,Completers of Week 8 Population Flag
+ADSL,COMP16FL,character,Completers of Week 16 Population Flag
+ADSL,COMP24FL,character,Completers of Week 24 Population Flag
+ADSL,DISCONFL,character,Did the Subject Discontinue the Study?
+ADSL,DSRAEFL,character,Discontinued due to AE?
+ADSL,DTHFL,character,Subject Died?
+ADSL,BMIBL,numeric,Baseline BMI (kg/m^2)
+ADSL,BMIBLGR1,character,Pooled Baseline BMI Group 1
+ADSL,HEIGHTBL,numeric,Baseline Height (cm)
+ADSL,WEIGHTBL,numeric,Baseline Weight (kg)
+ADSL,EDUCLVL,numeric,Years of Education
+ADSL,DISONSDT,Date,Date of Onset of Disease
+ADSL,DURDIS,numeric,Duration of Disease (Months)
+ADSL,DURDSGR1,character,Pooled Disease Duration Group 1
+ADSL,VISIT1DT,Date,Date of Visit 1
+ADSL,RFSTDTC,character,Subject Reference Start Date/Time
+ADSL,RFENDTC,character,Subject Reference End Date/Time
+ADSL,VISNUMEN,numeric,End of Trt Visit (Vis 12 or Early Term.)
+ADSL,RFENDT,Date,Date of Discontinuation/Completion
+ADSL,DCDECOD,character,Standardized Disposition Term
+ADSL,DCREASCD,character,Reason for Discontinuation
+ADSL,MMSETOT,numeric,MMSE Total
+ADAE,STUDYID,character,Study Identifier
+ADAE,SITEID,character,Study Site Identifier
+ADAE,USUBJID,character,Unique Subject Identifier
+ADAE,TRTA,character,Actual Treatment
+ADAE,TRTAN,numeric,Actual Treatment (N)
+ADAE,AGE,numeric,Age
+ADAE,AGEGR1,character,Pooled Age Group 1
+ADAE,AGEGR1N,numeric,Pooled Age Group 1 (N)
+ADAE,RACE,character,Race
+ADAE,RACEN,numeric,Race (N)
+ADAE,SEX,character,Sex
+ADAE,SAFFL,character,Safety Population Flag
+ADAE,TRTSDT,Date,Date of First Exposure to Treatment
+ADAE,TRTEDT,Date,Date of Last Exposure to Treatment
+ADAE,ASTDT,Date,Analysis Start Date
+ADAE,ASTDTF,character,Analysis Start Date Imputation Flag
+ADAE,ASTDY,numeric,Analysis Start Relative Day
+ADAE,AENDT,Date,Analysis End Date
+ADAE,AENDY,numeric,Analysis End Relative Day
+ADAE,ADURN,numeric,AE Duration (N)
+ADAE,ADURU,character,AE Duration Units
+ADAE,AETERM,character,Reported Term for the Adverse Event
+ADAE,AELLT,character,Lowest Level Term
+ADAE,AELLTCD,numeric,Lowest Level Term Code
+ADAE,AEDECOD,character,Dictionary-Derived Term
+ADAE,AEPTCD,numeric,Preferred Term Code
+ADAE,AEHLT,character,High Level Term
+ADAE,AEHLTCD,numeric,High Level Term Code
+ADAE,AEHLGT,character,High Level Group Term
+ADAE,AEHLGTCD,numeric,High Level Group Term Code
+ADAE,AEBODSYS,character,Body System or Organ Class
+ADAE,AESOC,character,Primary System Organ Class
+ADAE,AESOCCD,numeric,Primary System Organ Class Code
+ADAE,AESEV,character,Severity/Intensity
+ADAE,AESER,character,Serious Event
+ADAE,AESCAN,character,Involves Cancer
+ADAE,AESCONG,character,Congenital Anomaly or Birth Defect
+ADAE,AESDISAB,character,Persist or Signif Disability/Incapacity
+ADAE,AESDTH,character,Results in Death
+ADAE,AESHOSP,character,Requires or Prolongs Hospitalization
+ADAE,AESLIFE,character,Is Life Threatening
+ADAE,AESOD,character,Occurred with Overdose
+ADAE,AEREL,character,Causality
+ADAE,AEACN,character,Action Taken with Study Treatment
+ADAE,AEOUT,character,Outcome of Adverse Event
+ADAE,AESEQ,numeric,Sequence Number
+ADAE,TRTEMFL,character,Treatment Emergent Analysis Flag
+ADAE,AOCCFL,character,1st Occurrence of Any AE Flag
+ADAE,AOCCSFL,character,1st Occurrence of SOC Flag
+ADAE,AOCCPFL,character,1st Occurrence of Preferred Term Flag
+ADAE,AOCC02FL,character,1st Occurrence 02 Flag for Serious
+ADAE,AOCC03FL,character,1st Occurrence 03 Flag for Serious SOC
+ADAE,AOCC04FL,character,1st Occurrence 04 Flag for Serious PT
+ADAE,CQ01NAM,character,Customized Query 01 Name
+ADAE,AOCC01FL,character,1st Occurrence 01 Flag for CQ01
+ADTTE,STUDYID,character,Study Identifier
+ADTTE,SITEID,character,Study Site Identifier
+ADTTE,USUBJID,character,Unique Subject Identifier
+ADTTE,AGE,numeric,Age
+ADTTE,AGEGR1,character,Pooled Age Group 1
+ADTTE,AGEGR1N,numeric,Pooled Age Group 1 (N)
+ADTTE,RACE,character,Race
+ADTTE,RACEN,numeric,Race (N)
+ADTTE,SEX,character,Sex
+ADTTE,TRTSDT,Date,Date of First Exposure to Treatment
+ADTTE,TRTEDT,Date,Date of Last Exposure to Treatment
+ADTTE,TRTDUR,numeric,Duration of treatment (days)
+ADTTE,TRTP,character,Planned Treatment
+ADTTE,TRTA,character,Actual Treatment
+ADTTE,TRTAN,numeric,Actual Treatment (N)
+ADTTE,PARAM,character,Parameter Description
+ADTTE,PARAMCD,character,Parameter Code
+ADTTE,AVAL,numeric,Analysis Value
+ADTTE,STARTDT,Date,Time to Event Origin Date for Subject
+ADTTE,ADT,Date,Analysis Date
+ADTTE,CNSR,numeric,Censor
+ADTTE,EVNTDESC,character,Event or Censoring Description
+ADTTE,SRCDOM,character,Source Domain
+ADTTE,SRCVAR,character,Source Variable
+ADTTE,SRCSEQ,numeric,Source Sequence Number
+ADTTE,SAFFL,character,Safety Population Flag
+DM,STUDYID,character,Study Identifier
+DM,DOMAIN,character,Domain Abbreviation
+DM,USUBJID,character,Unique Subject Identifier
+DM,SUBJID,character,Subject Identifier for the Study
+DM,RFSTDTC,character,Subject Reference Start Date/Time
+DM,RFENDTC,character,Subject Reference End Date/Time
+DM,RFXSTDTC,character,Date/Time of First Study Treatment
+DM,RFXENDTC,character,Date/Time of Last Study Treatment
+DM,RFICDTC,character,Date/Time of Informed Consent
+DM,RFPENDTC,character,Date/Time of End of Participation
+DM,DTHDTC,character,Date/Time of Death
+DM,DTHFL,character,Subject Death Flag
+DM,SITEID,character,Study Site Identifier
+DM,AGE,numeric,Age
+DM,AGEU,character,Age Units
+DM,SEX,character,Sex
+DM,RACE,character,Race
+DM,ETHNIC,character,Ethnicity
+DM,ARMCD,character,Planned Arm Code
+DM,ARM,character,Description of Planned Arm
+DM,ACTARMCD,character,Actual Arm Code
+DM,ACTARM,character,Description of Actual Arm
+DM,COUNTRY,character,Country
+DM,DMDTC,character,Date/Time of Collection
+DM,DMDY,numeric,Study Day of Collection
+AE,STUDYID,character,Study Identifier
+AE,DOMAIN,character,Domain Abbreviation
+AE,USUBJID,character,Unique Subject Identifier
+AE,AESEQ,numeric,Sequence Number
+AE,AESPID,character,Sponsor-Defined Identifier
+AE,AETERM,character,Reported Term for the Adverse Event
+AE,AELLT,character,Lowest Level Term
+AE,AELLTCD,numeric,Lowest Level Term Code
+AE,AEDECOD,character,Dictionary-Derived Term
+AE,AEPTCD,numeric,Preferred Term Code
+AE,AEHLT,character,High Level Term
+AE,AEHLTCD,numeric,High Level Term Code
+AE,AEHLGT,character,High Level Group Term
+AE,AEHLGTCD,numeric,High Level Group Term Code
+AE,AEBODSYS,character,Body System or Organ Class
+AE,AEBDSYCD,numeric,Body System or Organ Class Code
+AE,AESOC,character,Primary System Organ Class
+AE,AESOCCD,numeric,Primary System Organ Class Code
+AE,AESEV,character,Severity/Intensity
+AE,AESER,character,Serious Event
+AE,AEACN,character,Action Taken with Study Treatment
+AE,AEREL,character,Causality
+AE,AEOUT,character,Outcome of Adverse Event
+AE,AESCAN,character,Involves Cancer
+AE,AESCONG,character,Congenital Anomaly or Birth Defect
+AE,AESDISAB,character,Persist or Signif Disability/Incapacity
+AE,AESDTH,character,Results in Death
+AE,AESHOSP,character,Requires or Prolongs Hospitalization
+AE,AESLIFE,character,Is Life Threatening
+AE,AESOD,character,Occurred with Overdose
+AE,AEDTC,character,Date/Time of Collection
+AE,AESTDTC,character,Start Date/Time of Adverse Event
+AE,AEENDTC,character,End Date/Time of Adverse Event
+AE,AESTDY,numeric,Study Day of Start of Adverse Event
+AE,AEENDY,numeric,Study Day of End of Adverse Event

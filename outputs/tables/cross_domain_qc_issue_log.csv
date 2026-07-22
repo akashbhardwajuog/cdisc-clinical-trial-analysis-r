@@ -1,0 +1,2 @@
+check_area,severity,issue,count,recommended_action
+Treatment alignment,Review,actual_treatment_mismatches,12,Review treatment variables and documented derivation rules.

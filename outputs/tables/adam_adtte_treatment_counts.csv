@@ -1,0 +1,4 @@
+parameter,parameter_code,actual_treatment,number_of_subjects
+Time to First Dermatologic Event,TTDE,Placebo,86
+Time to First Dermatologic Event,TTDE,Xanomeline High Dose,84
+Time to First Dermatologic Event,TTDE,Xanomeline Low Dose,84

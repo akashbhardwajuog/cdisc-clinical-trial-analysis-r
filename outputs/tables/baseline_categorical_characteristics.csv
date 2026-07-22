@@ -1,0 +1,23 @@
+actual_treatment,variable,category,category_count,percentage
+Placebo,age_group,65-80,42,48.8
+Placebo,age_group,<65,14,16.3
+Placebo,age_group,>80,30,34.9
+Placebo,race,BLACK OR AFRICAN AMERICAN,8,9.3
+Placebo,race,WHITE,78,90.7
+Placebo,sex,F,53,61.6
+Placebo,sex,M,33,38.4
+Xanomeline Low Dose,age_group,65-80,47,56
+Xanomeline Low Dose,age_group,<65,8,9.5
+Xanomeline Low Dose,age_group,>80,29,34.5
+Xanomeline Low Dose,race,BLACK OR AFRICAN AMERICAN,6,7.1
+Xanomeline Low Dose,race,WHITE,78,92.9
+Xanomeline Low Dose,sex,F,50,59.5
+Xanomeline Low Dose,sex,M,34,40.5
+Xanomeline High Dose,age_group,65-80,55,65.5
+Xanomeline High Dose,age_group,<65,11,13.1
+Xanomeline High Dose,age_group,>80,18,21.4
+Xanomeline High Dose,race,AMERICAN INDIAN OR ALASKA NATIVE,1,1.2
+Xanomeline High Dose,race,BLACK OR AFRICAN AMERICAN,9,10.7
+Xanomeline High Dose,race,WHITE,74,88.1
+Xanomeline High Dose,sex,F,40,47.6
+Xanomeline High Dose,sex,M,44,52.4

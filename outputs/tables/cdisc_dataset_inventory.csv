@@ -1,0 +1,6 @@
+dataset,dataset_standard,number_of_rows,number_of_columns,unique_subjects
+ADSL,ADaM,254,48,254
+ADAE,ADaM,1191,55,225
+ADTTE,ADaM,254,26,254
+DM,SDTM,306,25,306
+AE,SDTM,1191,35,225

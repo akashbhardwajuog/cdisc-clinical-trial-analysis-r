@@ -1,0 +1,13 @@
+USUBJID,SITEID,planned_treatment_adsl,actual_treatment_adsl,treatment_start_date,treatment_end_date,treatment_duration_days,discontinuation_flag,discontinuation_reason,discontinuation_reason_code,planned_arm_sdtm,actual_arm_sdtm,planned_treatment_match,actual_treatment_match
+01-701-1181,701,Xanomeline High Dose,Xanomeline High Dose,2013-12-05,2013-12-09,5,Y,ADVERSE EVENT,Adverse Event,Xanomeline High Dose,Xanomeline Low Dose,TRUE,FALSE
+01-701-1360,701,Xanomeline High Dose,Xanomeline High Dose,2013-07-31,2013-08-05,6,Y,PHYSICIAN DECISION,Physician Decision,Xanomeline High Dose,Xanomeline Low Dose,TRUE,FALSE
+01-703-1403,703,Xanomeline High Dose,Xanomeline High Dose,2012-12-12,2012-12-13,2,Y,ADVERSE EVENT,Adverse Event,Xanomeline High Dose,Xanomeline Low Dose,TRUE,FALSE
+01-705-1382,705,Xanomeline High Dose,Xanomeline High Dose,2013-05-13,2013-05-13,1,Y,PROTOCOL VIOLATION,I/E Not Met,Xanomeline High Dose,Xanomeline Low Dose,TRUE,FALSE
+01-708-1213,708,Xanomeline High Dose,Xanomeline High Dose,2013-02-09,2013-02-22,14,Y,ADVERSE EVENT,Adverse Event,Xanomeline High Dose,Xanomeline Low Dose,TRUE,FALSE
+01-708-1236,708,Xanomeline High Dose,Xanomeline High Dose,2013-09-21,2013-09-21,1,Y,WITHDRAWAL BY SUBJECT,Withdrew Consent,Xanomeline High Dose,Xanomeline Low Dose,TRUE,FALSE
+01-708-1372,708,Xanomeline High Dose,Xanomeline High Dose,2013-04-12,2013-04-19,8,Y,PROTOCOL VIOLATION,I/E Not Met,Xanomeline High Dose,Xanomeline Low Dose,TRUE,FALSE
+01-709-1329,709,Xanomeline High Dose,Xanomeline High Dose,2013-08-15,2013-08-25,11,Y,WITHDRAWAL BY SUBJECT,Withdrew Consent,Xanomeline High Dose,Xanomeline Low Dose,TRUE,FALSE
+01-709-1424,709,Xanomeline High Dose,Xanomeline High Dose,2013-03-03,2013-03-07,5,Y,ADVERSE EVENT,Adverse Event,Xanomeline High Dose,Xanomeline Low Dose,TRUE,FALSE
+01-711-1433,711,Xanomeline High Dose,Xanomeline High Dose,2013-01-27,2013-02-05,10,Y,ADVERSE EVENT,Adverse Event,Xanomeline High Dose,Xanomeline Low Dose,TRUE,FALSE
+01-714-1425,714,Xanomeline High Dose,Xanomeline High Dose,2013-08-15,2013-08-19,5,Y,STUDY TERMINATED BY SPONSOR,Sponsor Decision,Xanomeline High Dose,Xanomeline Low Dose,TRUE,FALSE
+01-716-1030,716,Xanomeline High Dose,Xanomeline High Dose,2013-12-28,2014-01-02,6,Y,WITHDRAWAL BY SUBJECT,Withdrew Consent,Xanomeline High Dose,Xanomeline Low Dose,TRUE,FALSE

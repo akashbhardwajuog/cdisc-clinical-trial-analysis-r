@@ -1,0 +1,4 @@
+actual_treatment,number_of_subjects,subjects_with_at_least_one_teae,percentage_with_at_least_one_teae
+Placebo,86,65,75.6
+Xanomeline Low Dose,84,77,91.7
+Xanomeline High Dose,84,76,90.5

@@ -1,0 +1,4 @@
+actual_treatment,total_subjects,subjects_with_event,percentage_with_event,censored_subjects,median_analysis_time_days
+Placebo,86,29,33.7,57,139
+Xanomeline Low Dose,84,62,73.8,22,29.5
+Xanomeline High Dose,84,61,72.6,23,24.5

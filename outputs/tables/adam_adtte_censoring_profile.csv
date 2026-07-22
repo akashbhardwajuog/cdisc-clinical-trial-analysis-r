@@ -1,0 +1,3 @@
+parameter,parameter_code,censoring_indicator,event_description,number_of_subjects
+Time to First Dermatologic Event,TTDE,0,Dematologic Event Occured,152
+Time to First Dermatologic Event,TTDE,1,Study Completion Date,102

@@ -1,0 +1,10 @@
+data_raw/cdisc_pilot_source/updated-pilot-submission-package/900172/m5/datasets/cdiscpilot01/analysis/adam/datasets/adae.xpt
+data_raw/cdisc_pilot_source/updated-pilot-submission-package/900172/m5/datasets/cdiscpilot01/analysis/adam/datasets/adlbc.xpt
+data_raw/cdisc_pilot_source/updated-pilot-submission-package/900172/m5/datasets/cdiscpilot01/analysis/adam/datasets/adlbh.xpt
+data_raw/cdisc_pilot_source/updated-pilot-submission-package/900172/m5/datasets/cdiscpilot01/analysis/adam/datasets/adlbhy.xpt
+data_raw/cdisc_pilot_source/updated-pilot-submission-package/900172/m5/datasets/cdiscpilot01/analysis/adam/datasets/adqsadas.xpt
+data_raw/cdisc_pilot_source/updated-pilot-submission-package/900172/m5/datasets/cdiscpilot01/analysis/adam/datasets/adqscibc.xpt
+data_raw/cdisc_pilot_source/updated-pilot-submission-package/900172/m5/datasets/cdiscpilot01/analysis/adam/datasets/adqsnpix.xpt
+data_raw/cdisc_pilot_source/updated-pilot-submission-package/900172/m5/datasets/cdiscpilot01/analysis/adam/datasets/adsl.xpt
+data_raw/cdisc_pilot_source/updated-pilot-submission-package/900172/m5/datasets/cdiscpilot01/analysis/adam/datasets/adtte.xpt
+data_raw/cdisc_pilot_source/updated-pilot-submission-package/900172/m5/datasets/cdiscpilot01/analysis/adam/datasets/advs.xpt

@@ -1,0 +1,10 @@
+actual_treatment,severity,treatment_emergent_adverse_event_records
+Placebo,MILD,210
+Placebo,MODERATE,65
+Placebo,SEVERE,6
+Xanomeline Low Dose,MILD,227
+Xanomeline Low Dose,MODERATE,160
+Xanomeline Low Dose,SEVERE,25
+Xanomeline High Dose,MILD,294
+Xanomeline High Dose,MODERATE,129
+Xanomeline High Dose,SEVERE,10

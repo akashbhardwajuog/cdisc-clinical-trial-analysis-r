@@ -1,0 +1,6 @@
+discontinuation_flag,discontinuation_reason,number_of_subjects
+Y,ADVERSE EVENT,5
+Y,WITHDRAWAL BY SUBJECT,3
+Y,PROTOCOL VIOLATION,2
+Y,PHYSICIAN DECISION,1
+Y,STUDY TERMINATED BY SPONSOR,1
